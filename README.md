@@ -10,7 +10,7 @@
 
 ## Compatibility
 
-[[Project]] currently targets .NET 5.0+.
+[[Project]] targets .NET Standard 2.0.
 
 ## Getting Started
 

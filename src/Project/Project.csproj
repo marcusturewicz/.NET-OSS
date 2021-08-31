@@ -1,6 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>net5.0</TargetFramework>
+    <TargetFramework>netstandard2.0</TargetFramework>
     <PackageId>Project</PackageId>
     <Authors>Full Name or Company</Authors>
     <Description>Description of package</Description>
